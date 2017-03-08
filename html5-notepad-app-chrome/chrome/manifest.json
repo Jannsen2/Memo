@@ -1,0 +1,14 @@
+{
+	"name": "Cloud Notes",
+	"description": "A simple HTML5 notebook in the cloud",
+	"version": "1.0",
+	"icons": { "128": "icon.png" },
+	"app": {
+		"urls": [ "http://notes.damb.is" ],
+		"launch": { "web_url": "http://notes.damb.is" }
+		},
+	"permissions": [
+		"unlimitedStorage",
+		"notifications"
+		]
+}
